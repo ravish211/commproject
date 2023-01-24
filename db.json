@@ -1,0 +1,75 @@
+{
+  "seller": [
+    {
+      "name": "Ravish",
+      "password": "12345678",
+      "email": "Ravish@test.com",
+      "id": 1
+    },
+    {
+      "name": "Amit",
+      "password": "1234",
+      "email": "Amit@test.com",
+      "id": 2
+    },
+    {
+      "name": "Abhay",
+      "password": "12345678",
+      "email": "abhay@test.com",
+      "id": 3
+    },
+    {
+      "name": "Peter",
+      "password": "12345678",
+      "email": "peter@test.com",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "I Phone 14",
+      "price": "12345678",
+      "category": "Mobile",
+      "color": "Black",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-125428/Apple-iPhone-14-Pro-Max_FINAL_featured-image-packshot-review-1.jpg",
+      "description": "hello users",
+      "id": 1
+    },
+    {
+      "name": "Vivo X50 pro",
+      "price": "55000",
+      "color": "Mid-night-blue",
+      "category": "Mobile",
+      "description": "Vivo Product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x50-pro-plus-1.jpg",
+      "id": 2
+    },
+    {
+      "name": "Vivo X70 Pro",
+      "price": "89000",
+      "color": "Grey Colour",
+      "category": "Mobile",
+      "description": "Scratch Free ",
+      "image": "https://images.fonearena.com/blog/wp-content/uploads/2021/10/vivo-X70-Pro_FoneArena-3.jpg",
+      "id": 3
+    },
+    {
+      "name": "Oppo Reno 7 Pro",
+      "price": "50000",
+      "color": "Blue",
+      "category": "Mobile",
+      "description": "Oppo Product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno7-pro-5g-1.jpg",
+      "id": 4
+    },
+    {
+      "name": "RC-300",
+      "price": "200000",
+      "color": "Unique",
+      "category": "Bike",
+      "description": "Sport",
+      "image": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a3RtJTIwYmlrZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 8
+    }
+  ]
+}
